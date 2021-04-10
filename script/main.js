@@ -131,7 +131,7 @@ buttonOperator.forEach((operator) => {
 				} else {
 					tempResult = input;
 				}
-			} else if (tempResult !== null && input != "") {
+			} else if (tempResult !== null ) {
 				if (equalRun == true) {
 					tempResult = result;
 				} else {
