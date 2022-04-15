@@ -1,3 +1,2 @@
 # Calculator
-Calculator project form https://www.theodinproject.com
-Not support keyboard, multi operators.
+<a href='https://truongwerk.github.io/Calculator/' target="_blank" rel="noopener">LIVE</a>
